@@ -1,0 +1,279 @@
+﻿id,diagnoza,ERN,uv,prevalence,orphakod,mesto,rok_narozeni,rok_vzniku_clenstvi,psc,kraj
+ind_001,Trombotická trombocytopenická purpura,,,není uvedeno,ORPHA:54057,534 01  Holice,1977.0,2017.0,53401,Pardubický
+ind_002,Ehlersův-Danlosův syndrom,,,1-9/100 000,ORPHA:287,566 01 Vysoké Mýto,1955.0,2012.0,56601,Pardubický
+ind_003,Loweho okulocerebrorenální syndrom,ERN - RND,,1-9 / 1 000 000,ORPHA:534,348 02 Bor u Tachova,1995.0,2025.0,34802,Plzeňský
+ind_004,Relabující polychondritida (Relapsing Polychondritis),EuroBloodNet,,neznámá,ORPHA:728,190 16  Praha 9,1964.0,2014.0,19016,Praha
+ind_005,"MEN1 / Syndrom mnohočetné endokrinní neoplázie, typ 1","ERN GENTURIS, Endo-ERN, PaedCan, EURACAN",,1-9 / 100 000,ORPHA:652,530 06 Pardubice,1966.0,2023.0,53006,Pardubický
+ind_006,Syndrom fragilního chromosomu X / Syndrom fragilního X,,,1-5 / 10 000,ORPHA:908,156 00 Praha 5,1970.0,2015.0,15600,Praha
+ind_007,ALG13-CDG,"ERN:ITHACA, RND, MetabERN",ano,<1 / 1 000 000,ORPHA: 324422,407 55 Dolní Podluží,1992.0,2025.0,40755,Ústecký
+ind_008,Izolovaný deficit komplexu I,"ERN:Metab, ITHACA, RND",ano,neznámá,ORPHA:2609,739 94 Vedryně,1989.0,2026.0,73994,Moravskoslezský
+ind_009,"AL Amyloidóza (systémová, získaná)",,,1-9 / 100 000,ORPHA:85443,199 00 Praha 16,1965.0,2017.0,19900,Praha
+ind_010,Hypofosfatázie,"ITHACA, ERN-BOND",,neznámý,ORPHA:436,198 00 Praha 9,1981.0,2025.0,19800,Praha
+ind_011,Infantilní neuroaxonální dystrofie,"ERN:ITHACA, RND",ne,neznámý,ORPHA: 35069,588 27 Jamné u Jihlavy,1995.0,2025.0,58827,Vysočina
+ind_012,SEMDJL2,"ERN: ITHACA, BOND",ano,<1 / 1 000 000,ORPHA: 93360,470 06 Česká Lípa,2001.0,2026.0,47006,Liberecký
+ind_013,Syndrom Louis-Barové,,,1-9 / 1 000 000,ORPHA:100,337 01 Rokycany ,1977.0,2017.0,33701,Plzeňský
+ind_014,Mikroduplikační syndrom 3Q26,ERN - ITHACA,,<1 / 1 000 000,ORPHA:96095,415 01 Teplice,1982.0,2025.0,41501,Ústecký
+ind_015,Charge syndrom,"ITHACA , ENDO, RITA",,neznámý,ORPHA: 138,379 01 Třeboň,1988.0,2025.0,37901,Jihočeský
+ind_016,Nefrogenní diabetes insipidus,,,1-9 / 1 000 000,ORPHA:223,353 01 Úvaly,1990.0,2020.0,35301,Karlovarský
+ind_017,McCuneův-Albrightův syndrom,ERN - ITHACA,,1-9 / 1 000 000,ORPHA:562,253 01 Hostivice,1981.0,2026.0,25301,Středočeský
+ind_018,Peutzův-Jeghersův syndrom,,,1-9 / 1 000 000,ORPHA:2869, 674 01  Třebíč,1994.0,2014.0,67401,Jihomoravský
+ind_019,Autoimunitní polyglandulární syndrom (APS),,,1-9 / 1 000 000,ORPHA:3453,389 01  Vodňany,1979.0,2019.0,38901,Jihočeský
+ind_020,Cushingův syndrom / Cushingova choroba,"Endo-ERN, PaedCan, EURACAN",,1-9 / 100 000,ORPHA: 96253,594 51 Křižanov,1986.0,2023.0,59451,Vysočina
+ind_021,Loeysův-Dietzův syndrom,,,neznámá,ORPHA:60030,102 00  Praha 10,1993.0,2020.0,10200,Praha
+ind_022,"Ehlersův-Danlosův syndrom, klasický typ",,,1-9 / 100 000,ORPHA:287,530 09  Pardubice,1986.0,2019.0,53009,Pardubický
+ind_023,H - ABC,ERN - RND,ano,<1 / 1 000 000,ORPHA:139441,785 01 Šternberk,1988.0,2025.0,78501,Zlínský
+ind_024,Loeysův-Dietzův syndrom,,,neznámá,ORPHA:60030,350 02  Cheb,1995.0,2020.0,35002,Karlovarský
+ind_025,Chronická zánětlivá demyelinizační neuropatie (CIDP),,,1-9 / 100 000,ORPHA:2932,"190 16, Praha 9",1958.0,2013.0,19016,Praha
+ind_026,"Klasická forma mycosis fungoides, Primární kožní T-buněčný lymfom",,,"neznámá, 1-5 / 10 000","ORPHA:2584, ORPHA:171901",392 01 Zvěrotice,1950.0,2024.0,39201,Jihočeský
+ind_027,Smithův-Lemliův-Opitzův syndrom,,,1-9/1 000 000,ORPHA: 813,267 62 Komárov,2000.0,2026.0,26762,Středočeský
+ind_028,Leighův syndrom,"MetabERN, ERN-RND",,neznámá,ORPHA:506,400 01 Ústí nad Labem,2002.0,2025.0,40001,Ústecký
+ind_029,Retinální makulární dystrofie typ 2,ERN - EYE,ano?,<1 / 1 000 000,ORPHA:319640,160 00 Praha 6,2002.0,2025.0,16000,Praha
+ind_030,DDX3X,ITHACA,ano,<1 / 1 000 000,,150 00  Praha 5 - Motol,1975.0,2021.0,15000,Praha
+ind_031,LBSL / Syndrom zahrnující leukoencefalopatii s involucí mozkového kmene a míchy a vysokou hladinu laktátu,,,<1 / 1 000 000,ORPHA:137898,252 46 Vrané nad Vltavou,2006.0,2016.0,25246,Středočeský
+ind_032,Sticklerův syndrom ,,,1-9 / 100 000,ORPHA:828,702 00 Moravská Ostrava ,1985.0,2016.0,70200,Moravskoslezský
+ind_033,Crouzonův syndrom s acanthosis nigricans,krivankova-hanka@centrum.cz,,neznámá,ORPHA:93262,671 67  Hrušovany nad Jevišovkou,1992.0,2020.0,67167,Jihomoravský
+ind_034,Progresivní supranukleární obrna,ERN - RND,ne,1-9 / 100 000,ORPHA:683,787 01 Šumperk,1967.0,2025.0,78701,Zlínský
+ind_035,Izolovaný Klippelův-Feilův syndrom,"ERN-ITHACA, BOND",ne,1-9 / 100 000,ORPHA: 2345,790 55 Vidnava,1973.0,2025.0,79055,Olomoucký
+ind_036,Fraserův syndrom,,,neznámá,ORPHA:2052,"789 85 Mohelnice,okr. Šumperk",1979.0,2013.0,78985,Zlínský
+ind_037,15q11-q13 mikroduplikační syndrom,ERN-ITHACA,,<1 / 1 000 000,ORPHA:238446,747 14 Markvartovice,1986.0,2024.0,74714,Moravskoslezský
+ind_038,"neurosvalové onemocnění, ultravzácní",,ano,,,436 01  Litvínov,1979.0,2021.0,43601,Ústecký
+ind_039,Desmin storage myopathy,,,<1 / 1 000 000,,541 02  Trutnov,2000.0,2021.0,54102,Královéhradecký
+ind_040,Incontinentia pigmenti,"ERN - EYE, SKIN, CRANIO",,1 - 9 / 1 000 000,ORPHA: 464,403 17 Přestanou,1988.0,2026.0,40317,Ústecký
+ind_041,Hypofosfatázie,"ERN-ITHACA, BOND",,neznámá,ORPHA: 436,463 11 Liberec,1990.0,2025.0,46311,Liberecký
+ind_042,Bartterův syndrom - typ 1,,,neznámá,ORPHA:620217,735 42  Těrlicko,1987.0,2020.0,73542,Moravskoslezský
+ind_043,Smithův-Lemliův-Opitzův syndrom,"ERN - ITHACA, ERN, BOND",,neznámá,ORPHA: 818,779 00 Olomouc,1995.0,2026.0,77900,Zlínský
+ind_044,Kongenitální svalová dystrofie ,,,1-9 / 1 000 000,,612 00 Brno ,1953.0,2016.0,61200,Jihomoravský
+ind_045,Joubertův syndrom,"ERN -ITHACA, RND",,neznámá,ORPHA: 475,533 75 Dolní Ředice,1979.0,2026.0,53375,Pardubický
+ind_046,Pokročilá systémová mastocytóza (AdvSM),"PaedCan, EURACAN",,1-5 / 10 000,ORPHA:2467,280 02 Kolín ,1965.0,2024.0,28002,Středočeský
+ind_047,Neurofibromatóza NF1 (Recklinhausenova choroba) / Neurofibromatóza typ 1 způsobená mutacemi nebo intragenovými delecemi NF1 genu,,,neznámá,ORPHA:363700,507 81  Lázně Bělohrad,1968.0,2019.0,50781,Královéhradecký
+ind_048,Alportův syndrom,"ERN - EYE, ITHACA",,neznámá,ORPHA: 634461,685 01 Bučovice,1977.0,2026.0,68501,Jihomoravský
+ind_049,Refsumova nemoc,,,1-9 / 1 000 000,ORPHA:773,160 00  Praha 6,1980.0,2020.0,16000,Praha
+ind_050,Autozomálně recesivní ataxie způsobená deficitem ubiquinonu,"MetabERN, ERN-RND",,<1 / 1 000 000,ORPHA: 139485,182 00  Praha 8,1956.0,,18200,Praha
+ind_051,Centronuclear myopathy / Centronukleární myopatie,,,1-9 / 1 000 000,ORPHA:597,696 61 Vnorovy - Lidéřovice,1981.0,2017.0,69661,Jihomoravský
+ind_052,MADD,"ERN-ITHACA, ENDO - ERN",ano,<1 / 1 000 000,ORPHA:686495,256 01 Benešov,1986.0,2025.0,25601,Středočeský
+ind_053,Mutace genu TAF1,ERN - ITHACA? RND,ano,<1 / 1 000 000,ORPHA: 480907,468 41 Kořenov,2000.0,2026.0,46841,Liberecký
+ind_054,Hirschsprungova nemoc,,,1 - 5/ 10 000,ORPHA: 338,460 01 Liberec 1,1984.0,2026.0,46001,Liberecký
+ind_055,Barthův syndrom,,,1-9 / 1 000 000,ORPHA:112,148 00  Praha 4,1985.0,2020.0,14800,Praha
+ind_056,Loweho okulocerebrorenální syndrom,"ERKNet, MetabERN, ERN-RND",ne,1-9 / 1 000 000,ORPHA:534,588 13 Polná,1956.0,2024.0,58813,Vysočina
+ind_057,Deficit dekarboxylázy aromatických L-aminokyselin (Deficit AADC),"MetabERn, ERN RND",možná?,<1 / 1 000 000,ORPHA:35708,533 41 Lázně Bohdaneč,1983.0,2023.0,53341,Pardubický
+ind_058,"Syndrom zahrnující mentální retardaci a faciální dysmorfismus, způsobený haploinsuficiencí SETD5",,,<1 / 1 000 000,ORPHA:404440,180 00  Praha 8,2016.0,2020.0,18000,Praha
+ind_059,Chronický návratný víceložiskový kostní zánět (CRMO),,,1-9 / 1 000 000,ORPHA:324964,767 01  Kroměříž,2000.0,2021.0,76701,Zlínský
+ind_060,Primární sklerozující cholangitida,neznám v ČR,,neznámá,ORPHA: 562639,569 62 Sebranice u Litomyšle,1986.0,2022.0,56962,Pardubický
+ind_061,Aplastická anémie PNH klon/aplastická anémie,EuroBloodNet/za ČR není uveden,,neznámá,ORPHA:182040,405 02 Česká Kamenice,1992.0,2022.0,40502,Ústecký
+ind_062,Poirier-Bienvenueův neurovývojový syndrom ,"ERN-ITHACA, RND, EpiCare",ano,<1 / 1 000 000,ORPHA:689397,140 00 Praha 4 - Nusle,1985.0,2026.0,14000,Praha
+ind_063,PSC - primárně skerozující cholangitida+AIH+ulcerózní kolitida / primární sklerozující cholangitida + autoimunitní hemolytická anémie,EuroBloodNet,,1-9 / 100 000 (u obou),"ORPHA: 171, ORPHA: 98375",100 00 Praha 10,1977.0,2022.0,10000,Praha
+ind_064,Hypokalcemická vitamin D rezistentní křivice/rachitida,,,neznámá,ORPHA:93160,702 00  Ostrava,1972.0,2020.0,70200,Moravskoslezský
+ind_065,Hypokalcemická vitamin D rezistentní křivice/rachitida,,,neznámá,ORPHA:93160,702 00  Ostrava,2007.0,2020.0,70200,Moravskoslezský
+ind_066,Syndrom dehiscence semicirkulárního kanálku,ERN - Cranio,,neznámá,ORPHA: 420402,254 01 Okrouhlo,1986.0,2026.0,25401,Středočeský
+ind_067,"Ehlersův-Danlosův syndrom, hypermobilní typ (EDS III) (Syndrom benigní kloubní hypermobility)","ERN-Skin, ERN ReCONNET",,1-5 / 10 000,ORPHA: 285,612 00  Brno,1989.0,2024.0,61200,Jihomoravský
+ind_068,"Mnohočetná epifyzární dysplázie, typ 4","ERN-ITHACA, ERN-BOND",,neznámá,ORPHA:93307,460 06 Liberec,1980.0,2025.0,46006,Liberecký
+ind_069,Kabuki syndrom a Okulofaciokardiodentální (OFCD) syndrom ,"ERN-ERNICA, EYE, ITHACA, RND",ne,1-9/100 000,"ORPHA: 2322, 2712",563 01 Lanškroun,1990.0,2025.0,56301,Pardubický
+ind_070,mutace genu DYNC1H1,,,,,164 00 Praha - Nebušice,1986.0,2026.0,16400,Praha
+ind_071,Marfanův syndrom,,,1-5 / 10 000,ORPHA:558,109 00  Praha 10 - Horní Měcholupy,1974.0,2021.0,10900,Praha
+ind_072,ATTRV122I amyloidóza (Transthyretin-vázaná familiární amyloidní kardiomyopatie); ATTR-CM,,,neznámá,ORPHA:85451,250 82  Úvaly - Tuklaty,1947.0,2022.0,25082,Středočeský
+ind_073,Familiární středozemská horečka,,,1-5 / 10 000,ORPHA:342,739 11 Frýdlant nad Ostravicí,1956.0,2013.0,73911,Moravskoslezský
+ind_074,Familiární středozemská horečka,"ERN - RITA, ITHACA",,1-5 / 10 000,ORPHA: 342,251 68 Kamenice,1980.0,2026.0,25168,Středočeský
+ind_075,Centrální diabetes insipidus,Endo-ERN,,1-9 / 100 000,ORPHA:178029,181 00 Praha 8,1987.0,2024.0,18100,Praha
+ind_076,Wiedemannův-Steinerův Syndrom,"ITHACA, ERN-RND",ano?,<1 / 1 000 000,ORPHA:319182,468 41 Tanvald,1978.0,2024.0,46841,Liberecký
+ind_077,Akromegalie,"Endo-ERN, EURACAN",,1-9 / 100 000,ORPHA:963,284 01 Kutná Hora,1985.0,2023.0,28401,Středočeský
+ind_078,"ultravzácní, bez diagnózy",,ano,,,364 52  Verušice,1999.0,2021.0,36452,Karlovarský
+ind_079,Allanův-Herndonův-Dudleyův syndrom,"Endo - ERN, Ithac, ERN - RND",ano,1/70 000,ORPHA: 59,143 00 Praha 12,1984.0,2026.0,14300,Praha
+ind_080,"De novo missence varianta c. 4472A>G (p.Glu1491Gly, NM_001348768.2) v exonu 27 genu HECW2 na chromozomu 2q32 v heterozygotním stavu",,,,,293 01 Mladá Boleslav,1976.0,2026.0,29301,Středočeský
+ind_081,Kearnsův-Sayreův syndrom,"ERN - EYE, ITHACA",ne,1-9/100 000,ORPHA: 480,568 02 Svitavy,1974.0,2026.0,56802,Pardubický
+ind_082,chromozómová aberace,,,neznámá,,322 00  Plzeň - Radčice,1985.0,2021.0,32200,Plzeňský
+ind_083,Castlemanova choroba,,,neznámá,ORPHA: 160,434 01  Most,1993.0,2022.0,43401,Ústecký
+ind_084,Prstencová aberace 5. chromozomu / Vrozená chromozomová aberace - ring chromozom 5,neznáme,ano,neznámá,neznáme,403 02,1983.0,2023.0,40302,Ústecký
+ind_085,PPP2R5D (není v Orphanetu),neznáme,neznáme,neznámá,neznáme,198 00 Praha 9,1981.0,2022.0,19800,Praha
+ind_086,"Systémové onemocnění pojiva s projevy: Systémový lupus, Sjogrenův syndrom, Vaskulitida, Dermatomyozitida/polymyozitida",,,neznámá,,543 01 Vrchlabí,1972.0,2014.0,54301,Královéhradecký
+ind_087,"Cushingův syndrom, ACTH produkující adenom hypofýzy / Cushingův syndrom způsobený ektopickou sekrecí ACTH","Endo-ERN, PaedCan, EURACAN",,neznámá,ORPHA: 99889,120 00 Praha 2,1990.0,2023.0,12000,Praha
+ind_088,Alkaptonurie,"ERN: MetabERN, ITHACA",ano,1-9/1 000 000,ORPHA: 56,602 00 Brno,1991.0,2026.0,60200,Jihomoravský
+ind_089,Akromegalie,"Endo-ERN, PaedCan, EURACAN",,1-9 / 100 000,ORPHA:963,569 01 Hradec nad Svitavou,1969.0,2023.0,56901,Pardubický
+ind_090,"Mutace genu GNA01 / Spektrum související s GNAO1 zahrnující vývojové opoždění, záchvaty a poruchu pohybu",EpiCARE nebo ERN-RND,ano,<1 / 1 000 000,ORPHA: 592564,562 01 Ústí nad Orlicí,1981.0,2023.0,56201,Pardubický
+ind_091,Akromegalie,"Endo-ERN, PaedCan, EURACAN",,1-9 / 100 000,ORPHA:963,128 00 Praha 2,1987.0,2023.0,12800,Praha
+ind_092,"Mozaiková neurofibromatóza, typ 1",ERN GENTURIS,,neznámá,ORPHA: 634461,625 00  Brno,1977.0,2024.0,62500,Jihomoravský
+ind_093,Syndrom fragilního X,"ITHACA, RND",ne,1-5/10 000,ORPHA:908,281 63 Vyžlovka,1983.0,2026.0,28163,Středočeský
+ind_094,ATTRV122I amyloidóza (Transthyretin-vázaná familiární amyloidní kardiomyopatie); ATTR-CM,,,neznámá,ORPHA:85451,160 00  Praha 6,1943.0,2022.0,16000,Praha
+ind_095,Christiansonův syndrom (SLC9A6),ITHACA,,<1 / 1 000 000,ORPHA:85278,750 02  Přerov,1978.0,2021.0,75002,Olomoucký
+ind_096,"Neurofibromatóza, typ 1","EURACAN, ERN-EYE, ERN-Skin, ITHACA, ERN-BOND, ERN GENTURIS, ERKnet, ERN-RND, EpiCare",,1-5/10 000,ORPHA:636,679 21 Černá Hora,1982.0,2024.0,67921,Jihomoravský
+ind_097,Ehlersův-Danlosův syndrom,,,1-9 / 100 000,ORPHA:287,370 01 České Budějovice,1990.0,2020.0,37001,Jihočeský
+ind_098,Neurčená epileptická encefalopatie s časným nástupem (neurčená EOEE),,ano,neznámá,ORPHA: 442835,397 01  Písek,,2022.0,39701,Jihočeský
+ind_099,Delece genu HNRNPU,neznáme,?,neznámá,ORPHA: nenalezeno,290 01 Poděbrady,1987.0,2025.0,29001,Středočeský
+ind_100,ATTRV122I amyloidóza (Transthyretin-vázaná familiární amyloidní kardiomyopatie); ATTR-CM,,,neznámá,ORPHA:85451,323 00  Plzeň,1939.0,2022.0,32300,Plzeňský
+ind_101,Akromegalie,"EURACAN, Endo-ERN, PaedCAN",,1-9 / 100 000,ORPHA:963,751 27 Zábeštní Lhota,1971.0,2024.0,75127,Olomoucký
+ind_102,Vada genu HECW2,,ano,,OMIM:617268,250 90 Jiří,1992.0,2026.0,25090,Středočeský
+ind_103,Atypická koarktace aorty,ERN - GUARD HEART,ano,<1 / 1 000 000 prověřit,ORPHA: 1456,783 65 Mrsklesy,1999.0,2026.0,78365,Zlínský
+ind_104,Hereditární sférocytóza,EUROBloodNet,,1-5/10 000,ORPHA:822,160 00 Praha 6,1981.0,2025.0,16000,Praha
+ind_105,Tolchin-Le Caignec OMIM: 618971 / Nespecifická syndromická mentální retardace,ERN-RND,,,ORPHA:528084,431 11 Jirkov,1980.0,2023.0,43111,Ústecký
+ind_106,Kabuki syndrom,ITHACA,,1-9 / 100 000,ORPHA:2322,182 00 Praha 8,2004.0,2017.0,18200,Praha
+ind_107,Mikroduplikační syndrom 3Q26,ERN-ITHACA,ano,<1 / 1 000 000 prověřit,ORPHA:96095,160 00 Praha 6,1982.0,2026.0,16000,Praha
+ind_108,Familiární středozemská horečka,"ERN RITA, ERKNet",,1-5 / 10 000,ORPHA:342,257 44 Vysoký Újezd,1988.0,2023.0,25744,Středočeský
+ind_109,Primární biliární cirhóza,,,1-5 / 10 000,ORPHA:186,142 00  Praha 4 - Písnice,1982.0,2022.0,14200,Praha
+ind_110,Fibrózní kostní dysplázie,,,neznámá,ORPHA:249,753 61  Milenov,1994.0,2019.0,75361,Olomoucký
+ind_111,Klasická forma mycosis fungoides,"EURACAN, EuroBloodNet, PaedCAN",,neznámá,ORPHA:2584,289 12 Sadská,1961.0,2024.0,28912,Středočeský
+ind_112,"Lissencefalický syndrom, Normanové-Robertsové typ","ERN-ITHACA, RND, EpiCare",,neznámá,ORPHA:89844,664 41 Troubsko,1986.0,2026.0,66441,Jihomoravský
+ind_113,Wegenerova granulomatóza/ Granulomatóza s polyangiitidou,RITA,,1-9 / 100 000,ORPHA:900,130 00 Praha 3,1968.0,2025.0,13000,Praha
+ind_114,Cushingova nemoc / Cushingova choroba,"Endo-ERN, PaedCan, EURACAN",,1-9 / 100 000,ORPHA: 96253,439 49 Staňkovice,1987.0,2023.0,43949,Ústecký
+ind_115,Hogue Janssensův syndrom,"ERN- ITHACA, RND",ano,<1 / 1 000 000 prověřit,ORPHA: 457279,,1991.0,2026.0,,
+ind_116,Syndrom KAT6A,,,<1 / 1 000 000 prověřit,,471 25  Jablonné v Podještědí,1978.0,2021.0,47125,Liberecký
+ind_117,McCuneův-Albrightův syndrom,ERN - ITHACA,,1-9 / 1 000 000,ORPHA:562,140 00 Praha 4 - Braník,1970.0,2025.0,14000,Praha
+ind_118,Ataxia telangiectasia (Syndrom Louis-Barové),,,1-9 / 1 000 000,ORPHA:100,289 24 Milovice,2010.0,2017.0,28924,Středočeský
+ind_119,HPP,ERN -  ITHACA,,neznámá,ORPHA:436,370 07 Roudné,1985.0,2025.0,37007,Jihočeský
+ind_120,Nemalinová myopatie,"ERN - ITHACA, RND",,neznámá,ORPHA: 607,684 01 Slavkov u Brna,1990.0,2026.0,68401,Jihomoravský
+ind_121,"Dysautonomie; POTS, Posturální ortostatická tachykardie způsobená deficitem NET",,,<1 / 1 000 000,ORPHA:443236?,798 07 Brodek u Prostějova ,1984.0,2020.0,79807,Olomoucký
+ind_122,Mayerův-Rokitanského-Küsterův-Hauserův syndrom,,,1-5 / 10 000,ORPHA:3109,150 00 Praha 5,1992.0,2017.0,15000,Praha
+ind_123,Loweho okulocerebrorenální syndrom,"ERKNet, MetabERN, ERN-RND",ne,1-9 / 1 000 000,ORPHA:534,664 57 Měnín,1976.0,2024.0,66457,Jihomoravský
+ind_124,Lymfangioleiomyomatóza (LAM),,,1-9 / 1 000 000,ORPHA:538,272 01  Kladno,1982.0,2017.0,27201,Středočeský
+ind_125,"Spinocerebelární ataxie, typ 21",,ano,<1 / 1 000 000,ORPHA:98773,460 14 Liberec 13,1999.0,2019.0,46014,Liberecký
+ind_126,"Klasická forma mycosis fungoides, Primární kožní T-buněčný lymfom","PaedCan, EURACAN, EuroBloodNet",,"neznámá, 1-5 / 10 000","ORPHA:2584, ORPHA:171901",702 00 Ostrava,1963.0,2024.0,70200,Moravskoslezský
+ind_127,Syndrom fragilního X,"ERN: ITHACA, RND",ne,1-5/10 000,ORPHA: 908,471 24 Ralsko,1988.0,2026.0,47124,Liberecký
+ind_128,Progresivní hemifaciální atrofie (Parryho-Rombergův syndrom) / Progresivní hemifaciální atrofie,,,neznámá,ORPHA:1214,109 00 Praha 10,1982.0,2017.0,10900,Praha
+ind_129,McCuneův-Albrightův syndrom,,,1-9 / 1 000 000,ORPHA:562,702 00 Ostrava,1981.0,2012.0,70200,Moravskoslezský
+ind_130,Klasická forma mycosis fungoides,,,neznámá,ORPHA:2584,"330 02 Dýšina, Nová Huť",1948.0,2024.0,33002,Plzeňský
+ind_131,"Ehlersův-Danlosův syndrom, hypermobilní typ (EDS III)",,,1-5 / 10 000,ORPHA:285,250 01  Brandýs nad Labem,1981.0,2021.0,25001,Středočeský
+ind_132,Familiární izolovaná hypoparatyreóza,"ERN - ENDO, Ithaca",ano,<1 / 1 000 000,ORPHA: 2238,266 01 Beroun,1974.0,2026.0,26601,Středočeský
+ind_133,Arnold-Chiariho malformace,,,neznámá,ORPHA:268882,566 01 Vysoké Mýto,1959.0,2013.0,56601,Pardubický
+ind_134,Metafyzární chondrodysplázie Jansen,,ano,<1 / 1 000 000,ORPHA:33067,142 00  Praha 4 - Kamýk,1992.0,2021.0,14200,Praha
+ind_135,Wilsonova choroba,,,1-9 / 100 000,ORPHA:905,155 00 Praha,1986.0,2019.0,15500,Praha
+ind_136,"Klasická forma mycosis fungoides, Primární kožní T-buněčný lymfom","PaedCan, EURACAN, EuroBloodNet",,"neznámá, 1-5 / 10 000","ORPHA:2584, ORPHA:171901",530 06 Pardubice,1958.0,2024.0,53006,Pardubický
+ind_137,Alströmův syndrom,,,1-9 / 1 000 000,ORPHA: 64 (MKN-10; E34.8),,1989.0,2021.0,,
+ind_138,"Parciální delece dlouhého raménka chromozomu 4 (4Q34,1-Q35,2)",,ano,neznámá,ORPHA: 262029,412 01  Třebušín,1990.0,2022.0,41201,Ústecký
+ind_139,"Mycosis fungoides, kožní T-lymfom / Klasická forma mycosis fungoides, Primární kožní T-buněčný lymfom","PaedCan, EURACAN, EuroBloodNet",,neznámá / 1-5 / 10 000,"ORPHA:2584, ORPHA:171901",623 00 Brno,1979.0,2023.0,62300,Jihomoravský
+ind_140,Invertovaná duplikace s delecí v oblasti krátkého raménka chromozomu 8,,ano,,,190 00  Praha 9,2019.0,2021.0,19000,Praha
+ind_141,Glanzmannova trombastenie,EuroBlood Net,,neznámá,ORPHA:849,588 54,,,58854,Vysočina
+ind_142,NEK1 amyotrofická laterální skleróza,,,1-9 / 100 000,ORPHA:803,746 01 Opava,1964.0,2020.0,74601,Moravskoslezský
+ind_143,Guillainův - Barrého syndrom,"EURO - NMD, RITA, RNT",ne,1-9 / 100 000,ORPHA:2103,512 03 Libštát,1991.0,2025.0,51203,Královéhradecký
+ind_144,Difuzní lymfatická malformace,,ano,neuvedena,ORPHA:141209,252 28 Černošice,1979.0,2017.0,25228,Středočeský
+ind_145,Kardiofaciokutánní syndrom (CFC syndrom),"ERN-Skin, ERN ITHACA, ERN Guard-Heart, ERN-RND",,neznámá,ORPHA:1340,641 00 Brno - Žebětín,1994.0,2024.0,64100,Jihomoravský
+ind_146,Imunoglobin A nefropatie,,,neznámá,ORPHA:34145,370 04 České Budějovice,1990.0,2024.0,37004,Jihočeský
+ind_147,Hyperimunoglobulinemie D s periodickou horečkou (Hyper-IgD syndrom) / Deficit mevalonátkinázy,,ano,neznámá,ORPHA: 343,763 02  Zlín - Malenovice,1985.0,2022.0,76302,Zlínský
+ind_148,Hypofosfatemická rachitida (X- vázaná hypofosfatemická křivice),,,neznámá,ORPHA: 437,591 01  Žďár nad Sázavou,1984.0,2022.0,59101,Vysočina
+ind_149,Liang-Wang syndrom,,,neznámá,neznáme,109 00 Praha 15,1985.0,2023.0,10900,Praha
+ind_150,Noonanové syndrom s mnohočetnými lentiginózními pigmentacemi (syndrom LEOPARD),"ERN-ITHACA, CRANIO, GENTURIS, GUARD-HEART",,neznámá,ORPHA:500,533 53 Pardubice,1992.0,2024.0,53353,Pardubický
+ind_151,Fanoniho anémie,"ERN - ITHACA, BOND",ano,1-9/1 000 000,ORPHA: 84,747 23 Bolatice,,2026.0,74723,Moravskoslezský
+ind_152,Vrozená spondyloepifyzární dysplázie,ERN-BOND,,neznámá,ORPHA:94068,535 01 Přelouč,2018.0,2021.0,53501,Pardubický
+ind_153,ADAR Gen/ ADAR1-related hereditary spastic paraplegia,,,neznámá,ORPHA:694356,568 02 Svitavy,1988.0,2025.0,56802,Pardubický
+ind_154,Dědičná ATTR amyloidóza,"ReCONNET, ERN GUARD-HEART",,1-9 / 1 000 000,ORPHA:271861,753 54 Rakov,1965.0,2023.0,75354,Olomoucký
+ind_155,Cushingův syndrom / Cushingova choroba,"Endo-ERN, PaedCan, EURACAN",,1-9 / 100 000,ORPHA:96253,735 43 Těrlicko,1981.0,2023.0,73543,Moravskoslezský
+ind_156,"Klasická forma mycosis fungoides, Primární kožní T-buněčný lymfom","PaedCan, EURACAN, EuroBloodNet",,"neznámá, 1-5 / 10 000","ORPHA:2584, ORPHA:171901",332 01 pošta Tymákov,1989.0,2024.0,33201,Plzeňský
+ind_157,Syndrom Lessel-Kreienkampové,,ano,,,736 01 Havířov 1,1980.0,2026.0,73601,Moravskoslezský
+ind_158,Lambertův-Eatonův myastenický syndrom,,,1-9 / 1 000 000,ORPHA:43393,150 00 Praha 5,1958.0,2020.0,15000,Praha
+ind_159,DEND syndrom,"ERN-Endo-ern, Ithaca, ERN-RND, EpiCare",ano,<1 / 1 000 000,ORPHA:79134,155 00 Praha 5,1975.0,2025.0,15500,Praha
+ind_160,Syndrom terminální delece dlouhého raménka 1.chromoz.,,,nevím,,500 03 Hradec Králové ,2014.0,2015.0,50003,Královéhradecký
+ind_161,"Syndrom zahrnující megacystis, mikrokolon a hypoperistaltiku střev (MMIHS, Berdonův syndrom)",,ano,neznámá,ORPHA:2241,101 00  Praha ,1985.0,2022.0,10100,Praha
+ind_162,Alagillův syndrom,"ITHACA, GENTURIS, RARE-LIVER",,neznámá,ORPHA:528084,530 03 Pardubice,1982.0,2024.0,53003,Pardubický
+ind_163,Lineární sebaceózní névus (Schimmelpenningův syndrom),ERN-Skin,,neznámá,ORPHA:2612,407 47 Varnsdorf,1961.0,2024.0,40747,Ústecký
+ind_164,ATTRV122I amyloidóza (Transthyretin-vázaná familiární amyloidní kardiomyopatie); ATTR-CM,,,neznámá,ORPHA:85451,251 01  Říčany,1937.0,2022.0,25101,Středočeský
+ind_165,"F208 IF070, Z31.5",,,neznámá,neznáme,163 00  Praha 6,,2023.0,16300,Praha
+ind_166,familiární fokální epilepsie s variabilními ložisky,RND,ano,,ORPHA:98820,163 00  Praha 6,1982.0,2022.0,16300,Praha
+ind_167,Dysautonomie; IST,,ano,<1 / 1 000 000,,708 00 Ostrava,1994.0,2017.0,70800,Moravskoslezský
+ind_168,Loweho okulocerebrorenální syndrom (Loweův syndrom),"MetabERN, ERN-RND",,1-9 / 1 000 000,ORPHA:534,686 04  Podolí,1988.0,2024.0,68604,Jihomoravský
+ind_169,ATTRV122I amyloidóza (Transthyretin-vázaná familiární amyloidní kardiomyopatie); ATTR-CM,,,neznámá,ORPHA:85451,500 03  Hradec Králové 3,1933.0,2022.0,50003,Královéhradecký
+ind_170,Klasická forma mycosis fungoides,"EURACAN, EuroBloodNet, PaedCAN",,neznámá,ORPHA:2584,460 04 Liberec 31,1953.0,2024.0,46004,Liberecký
+ind_171,DiGeorgův syndrom (22q11.2 deletion syndrome) / Mikrodeleční syndrom 22q11.2,"ITHACA, ERN-CRANIO, RITA",,1-5 / 10 000,ORPHA: 567,250 91 Zeleneč,1969.0,2023.0,25091,Středočeský
+ind_172,Sarkoidóza ,,,1-5 / 10 000,ORPHA:797,155 21  Praha 5 - Zličín,1958.0,2020.0,15521,Praha
+ind_173,Patogenní varianta v genu ZMYND11/ ZMYND11,,,neznámá,ORPHA:694308,709 00 Ostrava-Mariánské Hory,1997.0,2025.0,70900,Moravskoslezský
+ind_174,"Ehlersův-Danlosův syndrom, klasický typ",,,1-9 / 100 000,ORPHA:287,277 32 Byšice,2008.0,2016.0,27732,Středočeský
+ind_175,Ritscher Schinzel 3c typu 2 / 3C syndrom (Ritscher-Schinzelův syndrom - synonymum),ITHACA,ano,<1 / 1 000 000,ORPHA: 7,724 00 Nová Bělá,1990.0,2022.0,72400,Moravskoslezský
+ind_176,Agamaglobulinémie,,,1-9 / 1 000 000,ORPHA:183669,692 01 Mikulov,1968.0,2014.0,69201,Jihomoravský
+ind_177,"Vývojové opoždění, mentální retardace a porucha autitstického spektra související s GRIN2B","ITHACA, ERN - RND",ano,<1 / 1 000 000,ORPHA: 589547,603 00 Brno,1992.0,2025.0,60300,Jihomoravský
+ind_178,Epilepticka encefalopatie ,,,,,326 00 Plzeň,1991.0,2026.0,32600,Plzeňský
+ind_179,"Mycosis fungoides, kožní T-lymfom / Klasická forma mycosis fungoides, Primární kožní T-buněčný lymfom","PaedCan, EURACAN, EuroBloodNet",,neznámá / 1-5 / 10 000,"ORPHA:2584, ORPHA:171901",687 08 Buchlovice,1982.0,2023.0,68708,Jihomoravský
+ind_180,Pittův-Hopkinsův syndrom,"ITHACA, ERN-RND, EpiCare",,neznámá,ORPHA:2896,407 21 Česká Kamenice - Horní Kamenice,1994.0,2024.0,40721,Ústecký
+ind_181,"Laryngotracheoezofageální rozštěp, typ 4 (LTEC4)","ERN-LUNG, ERN CRANIO, ERN ITHACA",ano,<1 / 1 000 000,ORPHA:93941,198 00 Praha 9,1986.0,2023.0,19800,Praha
+ind_182,"X-vázaná mentální retardace, Najmové typ","ERN-ITHACA, ERN - RND",ano,<1 / 1 000 000,ORPHA: 163937,182 00 Praha 8,1993.0,2025.0,18200,Praha
+ind_183,Syndrom CTNNB1/ Syndrom postnatální mikrocefalie ...,RND,ano,<1 / 1 000 000,ORPHA:477673,735 14 Orlová-Lutyně,2001.0,2025.0,73514,Moravskoslezský
+ind_184,"Arnold-Chiari malformace, syringomyelie",,,neznámá,"ORPHA:268882 (Arnold-chiari malformace), ORPHA:3280 (syringomyelie)",785 01 Šternberk,1964.0,2013.0,78501,Zlínský
+ind_185,Komplexní regionální bolestivý syndrom,ERN: RND,,neznámá,ORPHA: 83452,163 00 Praha 17,1997.0,2025.0,16300,Praha
+ind_186,Marshallův-Smithův syndrom,"ITHACA, ERN-BOND, ERN-RND",ano ,<1 / 1 000 000,ORPHA: 561,679 38 Brno - Štýřice,1994.0,2024.0,67938,Jihomoravský
+ind_187,Palmoplantární hyperkaratóza ,"ERN - SKIN, HAUT",,neznámá,ORPHA: 307773,,1995.0,2026.0,,
+ind_188,"Syndrom NEDEGE, vrozená porucha neurobehaviorálního, psychomotorického a mentálního vývoje, a to v genu NBEA: c.607C>T (p.Arg203Ter)",,ano?,neznámá,není,73601 Havířov - Podlesí,1977.0,2024.0,73601,Moravskoslezský
+ind_189,Vrozená stenóza renální arterie,ERN - ERKnet,,neznámá,ORPHA: 97598,511 01 Turnov,1981.0,2026.0,51101,Královéhradecký
+ind_190,"Mycosis fungoides, kožní T-lymfom / Klasická forma mycosis fungoides, Primární kožní T-buněčný lymfom","PaedCan, EURACAN, EuroBloodNet",,"neznámá, 1-5 / 10 000","ORPHA:2584, ORPHA:171901",788 13 Vikýřovice,1954.0,2023.0,78813,Zlínský
+ind_191,Dědičná vrozená spastická tetraplegie,"ERN ITHACA, ERN - RND",ano,<1 / 1 000 000,ORPHA:21014,108 00 Praha 10,1992.0,2025.0,10800,Praha
+ind_192,Alexandrova choroba,"ERN - IITHACA, RND",,,ORPHA: 589547,267 62 Komárov,,2026.0,26762,Středočeský
+ind_193,Primární biliární cirhóza,,,1-5 / 10 000,ORPHA:186,405 02  Děčín 19,1973.0,2022.0,40502,Ústecký
+ind_194,"Relabující polychondritida (Relapsing Polychondritis) - s postižením dýchacích cest - difuzně, dg. 1994",,,neznámá,ORPHA:728,415 01 Teplice,1953.0,2015.0,41501,Ústecký
+ind_195,SYNGAP1-vázaná vývojová a epileptická encefalopatie,,ano,<1 / 1 000 000,ORPHA:544254,742 51  Mošnov,2015.0,2021.0,74251,Moravskoslezský
+ind_196,Akutní intermitentní porfýrie,,,1-9 / 1 000 000,ORPHA:79276,742 13 Studénka,1994.0,2018.0,74213,Moravskoslezský
+ind_197,Atrézie jícnu,,,1-5 / 10 000,ORPHA:1199,360 17 Karlovy Vary,1980.0,2013.0,36017,Karlovarský
+ind_198,McCuneův-Albrightův syndrom,ERN- ITHACA,ano,1-9/1 000 000,ORPHA: 562639,,1996.0,2026.0,,
+ind_199,Vrozený deficit sacharázy-izomaltázy,"MetabERN, ERN ERNICA",,1-5/ 10 000,ORPHA:35122,602 00 Brno,1997.0,2024.0,60200,Jihomoravský
+ind_200,"Klasická forma mycosis fungoides, Primární kožní T-buněčný lymfom","PaedCan, EURACAN, EuroBloodNet",,"neznámá, 1-5 / 10 000","ORPHA:2584, ORPHA:171901",277 34 Střemy,1976.0,2024.0,27734,Středočeský
+ind_201,Primární vaskulitida centrálního nervového systému,-,,neznámá,ORPHA:140989,147 00 Praha 4,,2024.0,14700,Praha
+ind_202,"Syndrom zahrnující intelektovou nedostatečnost, opoždění řeči, dysmorfické rysy a abnormality T-buněk","ITHACA, RITA, RND",ano,neznámá,ORPHA:662829,386 01 Osek,1987.0,2025.0,38601,Jihočeský
+ind_203,Loweho okulocerebrorenální syndrom (Loweův syndrom),"ERN-MetabErn, ITHACA, RND",,1-9/1 000 000 ,ORPHA:534,411 01 Litoměřice,1967.0,2026.0,41101,Ústecký
+ind_204,Vzácná mentální retardace bez vývojové anomálie,"ITHACA, ENR- RND, EpiCare",,neznámá,ORPHA: 101685,155 21 Praha 5,1992.0,2025.0,15521,Praha
+ind_205,"mutace genu MBD5, MAND syndrom",,,,,252 42 Jesenice ,1992.0,2026.0,25242,Středočeský
+ind_206,Castlemanova choroba,"EuroBloodNet, ERN PaedCan, ERN EURACAN",,neznámá,ORPHA:160,561 53 Dolní Čermná,1948.0,2023.0,56153,Pardubický
+ind_207,Adrenomyeloneuropatie,"ERN: ENDO, METABERN, ITHACA, RND",ne,neznámá,ORPHA: 139399,671 75 Maršovice,1972.0,2025.0,67175,Jihomoravský
+ind_208,Kennedyho nemoc,"ERN ITHACA, RND",ne,1-9 / 100 000,ORPHA: 481,763 16 Fryšták,1977.0,2026.0,76316,Zlínský
+ind_209,Wilsonova choroba,"RARE-LIVER, RND",,1-9/100 000,ORPHA:905,430 01 Chomutov,1968.0,2025.0,43001,Ústecký
+ind_210,Alportův syndrom,,,neznámá,ORPHA:63,753 64  Bělotín,1990.0,2020.0,75364,Olomoucký
+ind_211,Stargardtova nemoc,ERN-EYE,,1-5 / 10 000,ORPHA:827,397 01 Písek,1991.0,2023.0,39701,Jihočeský
+ind_212,Ellis Van Creveld syndrome / Creveldův syndrom,neznám v ČR,,neznámá,ORPHA:289,708 00  Ostrava - Poruba,1982.0,2020.0,70800,Moravskoslezský
+ind_213,Cerebrotendinózní xantomatóza,"ERN:Metab, ITHACA, RARE-LIVER, RND",,neznámá,ORPHA: 909,690 03 Břeclav,1989.0,2025.0,69003,Jihomoravský
+ind_214,Primární ciliární dyskineze,,,neznámá,ORPHA:244,370 01  České Budějovice,1984.0,2014.0,37001,Jihočeský
+ind_215,Syndrom Dravetové,neznám v ČR,,neznámá,ORPHA: 33069,253 01 Hostivice,1984.0,2022.0,25301,Středočeský
+ind_216,ATTRV122I amyloidóza (Transthyretin-vázaná familiární amyloidní kardiomyopatie); ATTR-CM,,,neznámá,ORPHA:85451,100 00  Praha 10,1932.0,2022.0,10000,Praha
+ind_217,"Klasická forma mycosis fungoides, Sézaryho syndrom",,,neznámá,"ORPHA:2584, ORPHA:3162",439 26 Lipčeves,1943.0,2024.0,43926,Ústecký
+ind_218,"mikrodelece na 5. chromozomu (5Q14.3-Q15), ztráta 27 genů včetně MEF2C, NR2F1, ADGRV1, KIA A 0825. Hypotonie, tracheostomie, epilepsie, opoždění, nejspíše atrofie zrakového nervu ",,ano,<1 / 1 000 000,ORPHA: 228384,330 24 Heřmanova Huť,1996.0,2025.0,33024,Plzeňský
+ind_219,Suspektní mitochondriální myopatie,,ano,neznámá,,182 00  Praha 8,2013.0,2019.0,18200,Praha
+ind_220,"ARSACS - Autozomálně recesivní spastická ataxie, typ Charlevoix-Saguenay",ERN-RND,,neznámá,ORPHA:98,149 00 Praha 4,2006.0,2024.0,14900,Praha
+ind_221,KBG syndrom,"ERN ITHACA, CRANIO, RND",ano,<1 / 1 000 000,ORPHA:2332,266 01 Beroun,1990.0,2025.0,26601,Středočeský
+ind_222,"Neurofibromatosa 2 typu /Neurofibromatóza, typ 2",,,1-9 / 100 000,ORPHA:637,751 17 Horní Moštěnice,1968.0,2018.0,75117,Olomoucký
+ind_223,Dědičná ATTR amyloidóza,"ReCONNET, ERN GUARD-HEART",,1-9 / 1 000 000,ORPHA:271861,294 46 Semčice,1954.0,2023.0,29446,Středočeský
+ind_224,Coffinův-Sirisův syndrom,"ERN -ITHACA,BOND, CRANIO, RND",ano,<1 / 1 000 000,ORPHA: 1465,500 12 Hradec Králové,1988.0,2025.0,50012,Královéhradecký
+ind_225,Ataxia telangiectasia,"ERN - SKIN, RITA, GENTURIS",,1 - 9 / 1 000 000,ORPHA: 100,696 02 Ratiskovice,,2026.0,69602,Jihomoravský
+ind_226,Syndrom fragilního X,"ERN - ITHACA, RND",,1-5/10 000,ORPHA: 908,397 01 Písek,1994.0,2026.0,39701,Jihočeský
+ind_227,"Mikrocefalické primordiální trpaslictví, Alazamiho typ","ITHACA, ERN-RND",,<1 / 1 000 000,ORPHA:319671,639 00 Brno - Štýřice,1994.0,2024.0,63900,Jihomoravský
+ind_228,Cushingova choroba,"Endo-ERN, PaedCan",,1-9 / 100 000,ORPHA:96253,624 00 Brno - Komín,1975.0,2023.0,62400,Jihomoravský
+ind_229,Joubertův syndrom,,,1-9 / 100 000,ORPHA:475,190 00  Praha 9,2014.0,2020.0,19000,Praha
+ind_230,Dystonia musculorum deformans / DYT1,,,1-9 / 1 000 000,ORPHA:256,280 02 Kolín ,1975.0,2016.0,28002,Středočeský
+ind_231,neurčena (z okruhu neurooftalmologie),,,,,190 00 Praha 9,1990.0,2025.0,19000,Praha
+ind_232,MERRF,"MetabERN, ERN-RND, EpiCARE, EURO-NMD",,neznámá,ORPHA:551,190 00 Praha 9,1983.0,2024.0,19000,Praha
+ind_233,Deficit lyzozomální kyselé lipázy,"MetabERN, Endo-ERN",,1-9/ 100 000,ORPHA:275761,440 01 Louny,1981.0,2024.0,44001,Ústecký
+ind_234,Syndrom dlouhého QT intervalu,,,neznámá,ORPHA:768,150 00  Praha 5 - Košíře,1989.0,2021.0,15000,Praha
+ind_235,"Autoimunitní polyendokrinní syndrom, typ 3",Endo-ERN,,neznámá,ORPHA:227982,370 04 České Budějovice,1972.0,2024.0,37004,Jihočeský
+ind_236,Idiopatická ortostatická hypotenze/ Dysautonomie,ERN-RND,,1-9 / 1 000 000,ORPHA:441,370 04 České Budějovice,2002.0,2024.0,37004,Jihočeský
+ind_237,Arboleda Tham syndrom,"ERN - ITHACA, BOND, RND",,,ORPHA: 597749,468 61 Desná,1982.0,2026.0,46861,Liberecký
+ind_238,Charge syndrom,"ERN-ITHACA, ENDO - ERN",,neznámá,ORPHA: 138,261 01 Příbram V,1986.0,2026.0,26101,Středočeský
+ind_239,,ERN-RND; MetabERN,možná,neznámá,ORPHA:25,594 01 Velké Meziříčí,2022.0,2022.0,59401,Vysočina
+ind_240,Primární hypoparatyreóza (nejasné etiologie),?,,?,nenalezeno,323 00  Plzeň,1976.0,2024.0,32300,Plzeňský
+ind_241,Leberova hereditární optická neuropatie,"EYE, MetabERN, CRANIO",,1-9 / 1 000 000,ORPHA:104,270 61 Lány,1985.0,2024.0,27061,Středočeský
+ind_242,CDKL5-vázaná epileptická encefalopatie,"ERN - ITHACA, RND, EpiCare",,neznámá,ORPHA: 505652,383 01 Prachatice,1997.0,2026.0,38301,Jihočeský
+ind_243,Moebiův syndrom,,,neznámá,ORPHA: 570,390 05  Tábor,1992.0,2022.0,39005,Jihočeský
+ind_244,Pudendal neuralgia / Pudendální neuralgie,,,neznámá,ORPHA:60039,"702 00, Moravská Ostrava a Přívoz",1961.0,2017.0,70200,Moravskoslezský
+ind_245,"Akromegalie, Prolaktinémie / Akromegalie, Familiární hyperprolaktinémie","Endo-ERN, ERN PaedCan, EURACAN",,"1-9 / 100 000, neznámá","ORPHA: 963, ORPHA:397685",252 44 Psáry - Dolní Jirčany,1985.0,2023.0,25244,Středočeský
+ind_246,Hogue Janssensův syndrom,"ERN- ITHACA, RND",ano,<1 / 1 000 000 prověřit,ORPHA: 457279,687 12 Bílovice u Uherského Hradiště,1987.0,2026.0,68712,Jihomoravský
+ind_247,"Mikrocefalické primordiální trpaslictví, Alazamiho typ",,,<1 / 1 000 000,ORPHA: 319671,193 00  Praha - 9,2018.0,2022.0,19300,Praha
+ind_248,Familiární adenomatózní polypóza,"ERN - EYE, ERNICA, ITHACA",,1 - 9 / 100 000,ORPHA: 733,561 52 Verměřovice,1974.0,2026.0,56152,Pardubický
+ind_249,"Syndrom zahrnující mikrocefalii, těžkou mentální retardaci a vícečetné vrozené vady související s SETD2","ITHACA, RND",ano,<1 / 1 000 000,ORPHA: 597743,186 00 Praha 8,1981.0,2025.0,18600,Praha
+ind_250,Labandův-Zimmermannův syndrom,"ERN-ITHACA, CRANIO, RND",ano,<1 / 1 000 000 prověřit,ORPHA: 3473,350 02 Cheb,1981.0,2026.0,35002,Karlovarský
+ind_251,"Tetrasomie chromosomu X, karytotyp 48 XXXX / Tetrazomie X",,,<1 / 1 000 000,ORPHA:9,102 00 Praha 10,1973.0,2013.0,10200,Praha
+ind_252,Wiedemannův-Steinerův Syndrom,"ERN: ITHACA, RND",ano,<1 / 1 000 000,"ORPHA: 319182, 163937",330 11 Dolany,1991.0,2025.0,33011,Plzeňský
+ind_253,Vrozená trombotická trombocytopenická purpura,ERN: ITHACA,ano,<1 / 1 000 000,ORPHA: 93583,572 01 Polička,1980.0,2026.0,57201,Pardubický
+ind_254,Spektrum onemocnění neuromyelitis optica (NMOSD),"RITA, ERN-RND, CRANIO",,1-9 / 100 000,ORPHA:71211,530 02 Pardubice,1982.0,2024.0,53002,Pardubický
+ind_255,Klippelův-Trenaunayův syndrom / Inverzní Klippelův-Trénaunayův syndrom,,,<1 / 1 000 000,ORPHA:329324,334 01 Přeštice,1967.0,2014.0,33401,Plzeňský
+ind_256,Tetrasomie 18p / Tetrazomie 18p,,,1-9 / 1 000 000,ORPHA:3307,252 28 Černošice,2016.0,2017.0,25228,Středočeský
+ind_257,Phelan McDermid Syndrom / Monozomie 22q13,,,neznámá,ORPHA:48652,500 09  Hradec Králové 9,2017.0,2019.0,50009,Královéhradecký
+ind_258,"Artézie jícnu, artézie zevního zvukovodu","ERNICA, ITHACA",,"1-5/10000, - ","ORPHA:1199, 141074",584 01 Ledeč nad Sázavou,1989.0,2025.0,58401,Vysočina
+ind_259,Aicardiho-Goutièresův syndrom,,,1-5/10 000,ORPHA:51,149 00  Praha 4 - Šeberov,1987.0,2021.0,14900,Praha
+ind_260,ATTRV122I amyloidóza (Transthyretin-vázaná familiární amyloidní kardiomyopatie); ATTR-CM,,,neznámá,ORPHA:85451,336 01  Blovice,1947.0,2022.0,33601,Plzeňský
+ind_261,Syndrom fragilního X,"ITHACA, RND",ne,1-5/10 000,ORPHA:908,152 00 Praha 5,1959.0,2025.0,15200,Praha
+ind_262,Syndrom fragilního X,"ITHACA, RND",ne,1-5/10 000,ORPHA:908,152 00 Praha 5,1990.0,2025.0,15200,Praha
+ind_263,Kabuki syndrom,ITHACA,,1-9 / 100 000,,628 00  Brno,1984.0,2021.0,62800,Jihomoravský
+ind_264,"AHUS / Hemolyticko-uremický syndrom, atypické formy",,,1-9 / 100 000,ORPHA:2134,541 01 Trutnov,1996.0,2017.0,54101,Královéhradecký
+ind_265,Stiff person syndrom a jeho varianty,"ERN RITA, ERN RND",,1-9/ 1 000 000,ORPHA:3198,549 37 Žďárky,1970.0,2024.0,54937,Královéhradecký
+ind_266,Wilsonova nemoc / Wilsonova choroba,"MetabERn, ERN RND",,1-9 / 100 000,ORPHA: 905,789 85 Mohelnice,1991.0,2022.0,78985,Zlínský
+ind_267,"Astrocytom, Syndrom zahrnující vývojové opoždění související s CHD3, opoždění řeči, mentální retardaci, abnormality zraku a obličejový dysmorfismus/ Snijders blok - campeau syndrom","PaedCan, Ithaca",,"1-9/100 000, -","ORPHA:94, 599082",739 04 Raškovice,1988.0,2025.0,73904,Moravskoslezský
+ind_268,více diagnóz - bude upřesněno,,ano,,,407 21  Česká Kamenice,1982.0,2022.0,40721,Ústecký
+ind_269,"Klasická forma mycosis fungoides, Primární kožní T-buněčný lymfom","PaedCan, EURACAN, EuroBloodNet",,"neznámá, 1-5 / 10 000","ORPHA:2584, ORPHA:171901",742 13 Studénka,1988.0,2024.0,74213,Moravskoslezský
+ind_270,Familiární středozemská horečka,,,1-5 / 10 000,ORPHA:342,591 01  Sklené nad Oslavou,1972.0,2016.0,59101,Vysočina
+ind_271,Ehlersův-Danlosův syndrom,,,neznámá,,542 35  Velké Svatoňovice,1962.0,2012.0,54235,Královéhradecký
+ind_272,ATTRV122I amyloidóza (Transthyretin-vázaná familiární amyloidní kardiomyopatie); ATTR-CM,,,neznámá,ORPHA:85451,323 00  Plzeň,1948.0,2022.0,32300,Plzeňský
+ind_273,"Wiedemannův-Steinerův Syndrom, X-vázaná mentální retardace, Najmové typ","ERN ITHACA, RND",ano,<1 / 1 000 000,"ORPHA: 319182, 163937",615 00 Brno,1984.0,2025.0,61500,Jihomoravský
+ind_274,CIDP – chronická zánětlivá demyelinizační polyneuropatie / Chronická zánětlivá demyelinizační neuropatie,,,1-9 / 100 000,ORPHA:2932,155 00  Praha 5,1963.0,2021.0,15500,Praha
+ind_275,X-linked hyper-IgM syndrom/ GAND syndrom,RITA,,neznámá,ORPHA:101088,784 01 Litovel,1982.0,2025.0,78401,Zlínský
+ind_276,Ektopie zornic a čoček oboustranně ; ADAMTSL4,EYE,,<1 / 1 000 000,ORPHA: 1885 (nejsme si jistí),517 71  České Meziříčí,2020.0,2022.0,51771,Královéhradecký
+ind_277,X-vázaná myxomatozní valvulární dysplázie související s FLNA,"GUARD-HEART, ITHACA",ano,<1 / 1 000 000,ORPHA:555877,170 00 Praha 7,1996.0,2025.0,17000,Praha
+ind_278,X-vázaná agamaglobulinemie,RITA,ano,1-9 / 1 000 000,ORPHA: 47,143 00 Praha 12,2008.0,2023.0,14300,Praha

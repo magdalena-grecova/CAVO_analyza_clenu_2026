@@ -1,0 +1,60 @@
+﻿id;nazev;diagnoza;ERN;prevalence;orphakod;mesto;kraj;rok_vzniku_org;rok_vzniku_clenstvi
+org_001;ADNP Asociace, z.s.;ADNP-vázané mnohočetné vrozené anomálie, mentální retardace a poruchy autistického spektra (ADNP syndrom/hudas);ERN-ITHACA, ERN-RND;1-9/ 100 000;ORPHA:404448;196 00 Praha 9;Praha;2024;2024
+org_002;AIPO z.s.;autoinflamatorní onemocnění;;;;504 01 Nový Bydžov;Královéhradecký;2024;2024
+org_003;Albína, z.s.;Albinismus;-;1-9 / 100 000;ORPHA:55;100 00 Praha 10;Praha;2023;2023
+org_004;ALSA, z.s.;Amyotrofická laterální skleróza;ERN-RND;1-9 / 100 000;ORPHA:803;120 00 Praha 2;Praha;2014;2020
+org_005;ANGELMAN CZ, spolek;Angelmanův syndrom;ERN-ITHACA;1-9 / 100 000;ORPHA:72;798 07 Brodek u Prostějova;Olomoucký;2006;null
+org_006;APAT - asociace pacientů s Ataxia Talengiectasia;Ataxia Telangiectasia;ERN-SKIN,GENTURIS, RITA, ITHACA, RND, EPICARE;1 - 9 /1 000 000;ORPHA:100;106 00 Praha 10;Praha;2025;2025
+org_007;Asociace genové terapie, z.s.;Angelmanův syndrom a genetická onemocnění;ERN-ITHACA;1-9 / 100 000;ORPHA:98794  ;140 00 Praha 4 - Michle;Praha;2018;null
+org_008;Asociace muskulárních dystrofiků v ČR, z.s.;svalové dystrofie, ALS;ERN-RND;1-9 / 100 000;víc diagnóz, nelze přesněji specifikovat;148 00 Praha 4;Praha;1970;null
+org_009;Asociace rodičů a přátel zdravotně postižených dětí v ČR, z.s., klub Be Treacher-Collins;Treacher Collinsův syndrom;ERN-CRANIO;1-9 / 100 000;ORPHA:861;;;null;null
+org_010;ATOS, z.s.;Touretteův syndrom;ERN-RND;none rare in Europe?;;160 00 Praha 6;Praha;2001;null
+org_011;AVminority, z.s.;AVM- arteriovenózní malformace hlavy a krku;VASCERN;neznámá;;289 22 Lysá nad Labem;Středočeský;2011;null
+org_012;CADASIL CZ z.s.;Cerebrální autozomálně dominantní arteriopatie, subkortikální infarkty, leukoencefalopatie;ERN-EYE, ITHACA;1-9/100 000;ORPHA:136;702 00 Ostrava Přívoz;Moravskoslezský;2026;2026
+org_013;Česká aliance pro kardiovaskulární onemocnění, z.s.;Homozygotní familiární hypercholesterolémie;METAB-ERN;1-9 / 1 000 000;ORPHA:391665;267 51 Zdice;Středočeský;2014;null
+org_014;DEBRA ČR, z.ú.;Epidermolysis bullosa congenita/nemoc motýlích křídel;ERN-SKIN;1-9 / 1 000 000;;613 00 Brno;Jihomoravský;2004;null
+org_015;Diagnóza MDS;myelodysplastický syndrom;EUROBLOOD NET;1-9 / 100 000;;128 00 Praha 2-Nové Město;Praha;2008;null
+org_016;DIAGNÓZA NARKOLEPSIE z.s.;Narkolepsie s kataplexií (narkolepsie bez kataplexie);ERN-RND;1-5 / 10 000;ORPHA:2073 (ORPHA:83465);106 00 Praha 10 - Záběhlice;Praha;2009;null
+org_017;Ehlers - Danlosův syndrom a syndrom hypermobility, z.s.;Ehlers-Danlosův syndrom a syndrom hypermobility;"ERN-Skin …v evrpoském měřítku, ale zjistit pod který ERN to spadá u nás / kontakt na odborníka; zatím nevíme český ERN";1-5 / 10 000;ORPHA:98249;152 00 Praha - Hlubočepy;Praha;2021;2021
+org_018;Frieda, z.s.;Friedreichova ataxie, FRDA;MetabERN;1-9/100000;ORPHA:95;158 00 Praha 5 - Stodůlky;Praha;2021;2022
+org_019;Fuck Cancer, z.s.;Onkoligická onemocnění, vč. Vzácných;EURACAN, PaedCan;;;118 00 Praha 1;Praha;2022;2023
+org_020;HAE Junior, z.s.;Hereditární angioedém;ERN-RITA;1-9 / 100 000;ORPHA:91378;182 00  Praha 8;Praha;2019;null
+org_021;Kabuki syndrom CZ, z.s.;Kabuki syndrom;ITHACA;1-9 / 100 000;ORPHA:2322;182 00  Praha 8 - Ďáblice;Praha;2021;2022
+org_022;Klub nemocných cystickou fibrózou, z.s.;Cystická fibróza;ERN-LUNG;1-9 / 100 000;ORPHA:586;150 06 Praha 5;Praha;1992;null
+org_023;Klub pacientů mnohočetný myelom, z.s.;mnohočetný myelom;EURACAN;1-5 / 10 000;ORPHA:29073; 625 00 Brno;Jihomoravský;2007;null
+org_024;KOLPINGOVA RODINA SMEČNO;Proximální spinální svalová atrofie;ERN-NMD;1-9 / 100 000;ORPHA:70;274 01 Slaný;Středočeský;2001;null
+org_025;Kongenévus CZ-SK, z.s.;obří kongenitální melanocytový nevus;ERN-SKIN;;;330 33  Čeminy;Plzeňský;null;null
+org_026;Ledvinka z.s.;Vzácná onemocnění ledvin;;;;110 00 Praha 1;Praha;2025;2026
+org_027;LYMFOM HELP, z.s. ;skupina lymfomů;EURACAN;;;108 00 Praha 10;Praha;2005;null
+org_028;META - spolek pacientů se střádavými onemocněními, o.s.;choroby: Gaucherova, Pompeho, Fabryho, Niemann-Pickova;METAB-ERN;;;362 22 Nejdek;Karlovarský;2006;null
+org_029;METODĚJ z.s.;metabolické vady, galaktosémie, encefalomyophatie Arthur, kardiomyophatie Viktor;METAB-ERN;;;182 00  Praha 8;Praha;2009;null
+org_030;MYGRA-CZ, z.s.;myasthenia gravis;ERN EURO-NMD;1-9 / 100 000;ORPHA:589;140 00 Praha 4;Praha;2009;null
+org_031;Národní sdružení PKU a jiných DMP, z.s.;fenylketonurie a další dědičná vzácná onemocnění;METAB-ERN;1-5 / 10 000;;120 00 Praha 2;Středočeský;2006;null
+org_032;NEFROHEMA, o.p.s.;aHUS a PNH-vzácná nefrologická a hematologická onemocnění;ERKNnet nebo BLOOD - potřebujeme upřesnit :);1-9 / 100 000 ;;"100 00 Praha 10
+";Praha;2013;null
+org_033;NF Česko;Neurofibromatóza typu 1;ERN EYE, SKIN, ITHACA;1-5/10 000;ORPHA: 636;375 01 Týn nad Vltavou;Jihočeský;2026;2026
+org_034;Občanské sdružení Imunodeficitních pacientů HAE /AAE;hereditární angioedém;ERN-RITA;;;602 00 Brno;Jihomoravský;2009;null
+org_035;Občanské sdružení rodičů dětí a dospělých postižených Gaucherovou chorobou;Gaucherova nemoc;METAB-ERN;1-9 / 100 000;ORPHA:355;360 05 Karlovy Vary;Karlovarský;1997;null
+org_036;Paleček - společnost lidí malého vzrůstu;achondroplazie, chondrodystrofie, pseudoachondrodystrofie, spondylometaepifyzální kostní dysplazie;ERN-BOND;;;277 51 Nelahozeves;Středočeský;1997;null
+org_037;PARENT PROJECT, z.s.;Duchennova a Beckerova svalová dystrofie;ERN-NMD;1-9 / 100 000;ORPHA:262;"431 44 Droužkovice
+";Ústecký;2001;null
+org_038;PRADER-WILLI, z.s.;Praderův-Williho syndrom;ERN-ITHACA;1-9 / 100 000;ORPHA:739;101 00 Praha 10;Praha;2003;null
+org_039;Rett Community, z.s.;Rettův syndrom;ERN-ITHACA;1-9 / 100 000;ORPHA:778;253 01 Hostivice;Středočeský;2004;2012
+org_040;Revma Liga Česká republika, z.s.;Juvenilní idiopatická artritida (dětské), sclerodermie (systémová skleróza), systémový lupus erymatodes, vaskulitidy;ERN-RITA;;;128 50 Praha 2;Praha;null;null
+org_041;Rodina spolu, o.s.;dystonie;ERN-RND;;;400 01 Ústí nad Labem - Bukov;Ústecký;2010;null
+org_042;Řasinka z.s.;primární ciliární dyskineze;-;-;ORPHA:244;267 26 Všeradice;Středočeský;2023;2023
+org_043;Sdružení pacientů s plicní hypertenzí, z.s.;plicní hypertenze;ERN-LUNG;;;150 00 Praha 5;Praha;2005;null
+org_044;SMÁci, z.s.;spinální svalová atrofie;ERN-NMD;;;252 25 Zbuzany;Středočeský;2017;null
+org_045;Společnost C-M-T, z.s.;Charcott-Marie-Tooth choroba;ERN-NMD;;; 500 11 Hradec Králové;Královéhradecký;1999;null
+org_046;Společnost Parkinson, z.s.;familiární parkinsonská demence;ERN-RND;;;100 00 Praha 10;Praha;1994;null
+org_047;Společnost pro mukopolysacharidosu, z.s.;dědičná metabolická onemocnění;METAB-ERN;;;772 00 Olomouc;Olomoucký;1994;null
+org_048;Spolek Anca Vaskulitida - pacientská podpora ČR;Vaskulitida asociovaná s protilátkami proti cytoplazmě neutrofilů;ERN-RITA;1-5/10000;ORPHA:156152;130 00 Praha 3;Praha;2025;2025
+org_049;Spolek Ichtyóza;genetické onemocnění kůže Ichtyóza;ERN-SKIN;neznámá;ORPHA:79354;262 11  Rosovice;Středočeský;2016;null
+org_050;Spolek pro Atypické parkinsonské syndromy (APS). z.s.;atypické parkinsonské syndromy, multisystémová atrofie, progresivní supranukleární obrna;ERN-RND;;;120 00 Praha 2;Praha;2018;null
+org_051;Spolek pro podporu lidí s Rubinstein-Taybi syndromem, z. s;Rubinsteinův-Taybiho syndrom;doplnit;1-9 / 100 000;ORPHA:783;667 01  Židlochovice;Jihomoravský;2020;2021
+org_052;Tarlovova cysta, z.s.;Perineurální cysta;ERN-RND;neznámá;ORPHA:65250;517 54 Vamberk;Královéhradecký;2019;null
+org_053;TAY SACHS, z.s.;Tay-Sachsova nemoc;ERN-RND;neznámá;ORPHA:845;196 00 Praha 9;Praha;2025;2025
+org_054;Úsměv srdcem z.s.;Moebiův syndrom;;1 - 9/100 000;ORPHA:570;180 00 Praha 8;Praha;2025;2026
+org_055;VHL komunita z.s.;Von Hippelova - Lindauova choroba;ERN-PeadCan, Genturis, Endo- ERN, EUROCAN, ITHACA;1-9 / 100 000;ORPHA:892;252 16 Nučice;Středočeský;2025;2025
+org_056;Willík - spolek pro Williamsův syndrom, z.s.;Weaverův-Wiliamsův syndrom;ERN-ITHACA;<1 / 1 000 000;ORPHA:3448;180 00 Praha 8;Praha;2006;null
+org_057;Život bez střeva, z.s.;CIPO, HSCR (?MSCR), NEC, FAP ;ERNICA - nemáme zastoupení ani pacienti nejsou zapojeni;;;155 00  Praha 5 - Řepořyje;Praha;2008;null
