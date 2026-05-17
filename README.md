@@ -26,15 +26,22 @@ přehledný datový výstup, který může sloužit jako podklad pro strategick�
 ---
 
 ## Struktura repozitáře
+```
 CAVO_analyza_clenu_2026/
 ├── data/
-│   ├── CAVO_IND_clean.csv       # Anonymizovaná data individuálních členů
-│   └── CAVO_ORG_clean.csv       # Anonymizovaná data členských organizací
+│   ├── CAVO_IND_clean.csv
+│   └── CAVO_ORG_clean.csv
 ├── notebooks/
-│   └── clenove_analyza.ipynb    # Čištění dat a přiřazení krajů podle PSČ
+│   └── clenove_analyza.ipynb
 ├── dashboard/
-│   └── CAVO_clenove_2026.pdf    # Power BI dashboard
+│   └── CAVO_clenove_2026.pdf
 └── README.md
+```
+**Obsah složek:**
+- `CAVO_IND_clean.csv` – anonymizovaná data individuálních členů
+- `CAVO_ORG_clean.csv` – anonymizovaná data členských organizací
+- `clenove_analyza.ipynb` – čištění dat a přiřazení krajů podle PSČ
+- `CAVO_clenove_2026.pdf` – Power BI dashboard
 
 ---
 
